@@ -184,3 +184,237 @@ margin:9rem 5rem 0 3rem;
 height: 13.2rem;
 margin: 0.5rem 10rem 0 6rem;
 }
+.places{
+    background: #333;
+    display: flex;
+    flex-direction: column;    
+}
+.shapes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 3rem;    
+}
+.text-shapes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 2rem 0 0 9rem;
+
+}
+.text-shape p{
+color: #E8E8E8;
+text-align: center;
+font-family: Aleo;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 72.222% */
+}
+.pool{
+    background-image: url(./img/Rectangle414.png);
+    background-size: cover;
+    width: 100%;
+    height: 42rem;
+    padding-top: 30rem;
+}
+.pool-box{
+    background-color: #232323;
+opacity: 0.9;
+width: 28rem;
+height: 22.50;
+padding: 3rem;
+margin-left: 15rem;
+}
+.pool-box h4{
+    color: #E8E8E8;
+font-family: Josefin Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 130% */
+letter-spacing: 1.5px;
+}
+.pool-box h2{
+    color: #FFF;
+    font-family: Josefin Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 130% */
+    text-transform: uppercase;
+}
+.pool-box p{
+    color: #E8E8E8;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+.pool-box button{
+    width: 9.50rem;
+    height: 3rem;
+    background: #5474FD;
+    stroke-width: 2px;
+    stroke: #FFF;
+    color: #FFF;
+    text-align: center;
+    font-family: Aleo;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 185.714% */
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+}
+.mont-box{
+    background-color: #232323;
+    opacity: 0.9;
+    width: 28rem;
+    height: 22.50;
+    padding: 3rem;
+    margin: 33rem 0 0 40rem;
+}
+.mont{
+    background-image: url(./img/Rectangle\ 41445.png);
+    background-size: cover;
+    width: 100%;
+    height: 42rem;
+    margin-top: -33rem;  
+}
+.mont-box h4{
+    color: #E8E8E8;
+font-family: Josefin Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 130% */
+letter-spacing: 1.5px;
+}
+.mont-box h2{
+    color: #FFF;
+    font-family: Josefin Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 130% */
+    text-transform: uppercase;
+}
+.mont-box p{
+    color: #E8E8E8;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+.mont-box button{
+    width: 9.50rem;
+    height: 3rem;
+    background: #5474FD;
+    stroke-width: 2px;
+    stroke: #FFF;
+    color: #FFF;
+    text-align: center;
+    font-family: Aleo;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 185.714% */
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+}
+.hike{
+    background-image: url(./img/hikingbackground.png);
+    background-size: cover;
+    width: 100%;
+    height: 43rem;
+    margin-top: -1.2rem;
+}
+.samsumon{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    justify-content: center;
+}
+.samtext{
+    display: flex;
+    flex-direction: column;
+    background-color: #333;
+}
+.hike h2{
+    color: #FFF;
+    text-align: center;
+    font-family: Aleo;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 72.222% */
+    padding: 5rem 0 2rem 0;
+    margin-top: -2rem;
+}
+.p1{
+    color: #FEFEFE;
+font-family: Josefin Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 130% */
+text-transform: uppercase;
+padding-left: 4rem;
+padding-right: 3rem;
+}
+.p2{
+    color: #E8E8E8;
+font-family: Josefin Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+padding-left:4rem;
+padding-right: 3rem;
+}
+.samsumon{
+    padding: 3rem 0 0 8rem;
+}
+.footer h5{
+    color: #FFF;
+font-family: Josefin Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px; /* 108.333% */
+letter-spacing: 3.36px;
+text-transform: uppercase;
+text-align: center;
+}
+.footer p{
+    color: #FFF;
+text-align: center;
+font-family: Josefin Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+letter-spacing: 1.6px;
+}
+.footer{
+background-color: #232323;
+margin-top:-2.5rem;
+padding-top: 2rem;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 35rem 3rem 35rem;
+}
+.links a{
+    color: #FEFEFE;
+}
+.links a:hover{
+    transform: translateY(8px);
+}
+button:hover{
+    transform: translateY(8px);
+}
