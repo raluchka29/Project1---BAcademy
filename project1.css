@@ -27,7 +27,6 @@ letter-spacing: 6.82px;
     background-size: cover;
     width: 100%;
     height: 46rem;
-
     margin: 0;
     margin-top: -2.5rem;   
     display: flex;
@@ -67,7 +66,6 @@ background: #5474FD;
 stroke-width: 2px;
 stroke: #FFF;
 color: #FFF;
-color: #FFF;
 text-align: center;
 font-family: Aleo;
 font-size: 14px;
@@ -86,4 +84,103 @@ font-style: normal;
 font-weight: 400;
 line-height: 26px; /* 185.714% */
 letter-spacing: 2.8px;
+}
+.nav{
+    background:#5474FD;    
+    width: 100%;
+    height: 5rem;
+    margin-top: -2.5rem;  
+    display: flex;  
+}
+.nav ul{
+    display: flex;
+    justify-content: flex-end;
+    align-content: space-around;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row; 
+    margin-left: 10rem;   
+    margin-top: 1.5rem; 
+}
+li a{
+text-decoration: none;
+color: #FFF;
+font-family: Aleo;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 185.714% */
+text-transform: uppercase;
+margin: 2rem 1rem 1rem 1rem;
+}
+.nav p{
+color: #FFF;
+font-family: Josefin Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px; /* 108.333% */
+letter-spacing: 2.4px;
+text-transform: uppercase;
+margin-left: 20rem;
+}
+.choose{
+    background-image: url(img/Rectangle\ 41444.png);
+    background-size: cover;
+    width: 100%;
+    height: 46rem;
+    display: flex;
+    flex-direction: row;
+}
+.why-choose-us{
+    display: flex;
+    flex-direction: column;
+    width: 50%;    
+    margin: 14rem 2rem 0 15rem;
+}
+.landscape-img{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.why-choose-us h2{
+    color: #FFF;
+font-family: Aleo;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 72.222% */
+
+}
+.why-choose-us p{
+    color: #E8E8E8;
+font-family: Josefin Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+letter-spacing: 1.6px;
+}
+.why-choose-us button{
+    color: #FFF;
+font-family: Aleo;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+letter-spacing: 1.2px;
+text-transform: uppercase;
+width: 13.60rem;
+height: 3.80rem;
+background: #5474FD;
+}
+.landscape1{
+    width: 21rem;
+height: 13.2rem;
+margin:9rem 5rem 0 3rem;
+}
+.landscape2{
+    width: 21rem;
+height: 13.2rem;
+margin: 0.5rem 10rem 0 6rem;
 }
